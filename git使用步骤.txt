@@ -1,3 +1,6 @@
+git init  初始化git
+git remote add origin k15135234347@163.com  是将你本地的仓库和github仓库进行关
+
 1. git add ''   提交
 2. git commit -m ''  
 3. git push -u origin master/dev  以后直接git push
